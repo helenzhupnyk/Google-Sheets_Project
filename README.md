@@ -1,4 +1,4 @@
-# Google Sheets Dashboard Project
+# Google Sheets Sales Dashboard Project
 
 This project demonstrates the creation of a **Sales Dashboard** using Google Sheets, showcasing data analysis, visualization, and reporting skills.
 
